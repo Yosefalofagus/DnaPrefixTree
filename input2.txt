@@ -1,0 +1,4 @@
+insert ACGT
+print
+insert CGTA
+print
